@@ -1,0 +1,11 @@
+{
+  "name": "@veppagunta-3e04c8a7-fdc2-4182-bde1-2f1fe496aee6/data",
+  "version": "0.0.1",
+  "private": true,
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
