@@ -1,7 +1,7 @@
 # Secure Task Management System (Nx Monorepo)
 
 **Author:** Venkata Eppagunta  
-**Repository:** `veppagunta-3e04c8a7-fdc2-4182-bde1-2f1fe496aee6`
+**Repository:** `Secure-Task-Managment-Sytem-JWT-RBAC`
 
 A secure **Task Management System** built on **Nx monorepo**
 
@@ -58,24 +58,17 @@ npx nx serve dashboard
 
 
 
+## Support Us
 
-## Install Nx Console
+If you find this project useful, please give it a star! ⭐
 
-Nx Console is an editor extension that enriches your developer experience. It lets you run tasks, generate code, and improves code autocompletion in your IDE. It is available for VSCode and IntelliJ.
+[![Star Badge](https://img.shields.io/github/stars/[Venkat-Siva-Prasad-Reddy-Eppagunta/zedx](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/Secure-Task-Managment-System-JWT-RBAC)?style=social)]([https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/zedx](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/Secure-Task-Managment-System-JWT-RBAC))
 
-[Install Nx Console &raquo;](https://nx.dev/getting-started/editor-setup?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
+Your support helps us improve and maintain this project!
 
-## Useful links
 
-Learn more:
+## Contact
 
-- [Learn more about this workspace setup](https://nx.dev/getting-started/intro#learn-nx?utm_source=nx_project&amp;utm_medium=readme&amp;utm_campaign=nx_projects)
-- [Learn about Nx on CI](https://nx.dev/ci/intro/ci-with-nx?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
-- [Releasing Packages with Nx release](https://nx.dev/features/manage-releases?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
-- [What are Nx plugins?](https://nx.dev/concepts/nx-plugins?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
-
-And join the Nx community:
-- [Discord](https://go.nx.dev/community)
-- [Follow us on X](https://twitter.com/nxdevtools) or [LinkedIn](https://www.linkedin.com/company/nrwl)
-- [Our Youtube channel](https://www.youtube.com/@nxdevtools)
-- [Our blog](https://nx.dev/blog?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
+- **Venkat Siva Prasad Reddy Eppagunta**
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Venkat_Siva_Prasa_Reddy_Eppagunta-black?style=flat&logo=github&logoColor=white)](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venka_Siva_Prasa_Reddy_Eppagunta-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-eppagunta/)
