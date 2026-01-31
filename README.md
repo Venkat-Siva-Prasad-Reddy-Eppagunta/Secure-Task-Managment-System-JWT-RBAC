@@ -62,7 +62,7 @@ npx nx serve dashboard
 
 If you find this project useful, please give it a star! ⭐
 
-[![Star Badge](https://img.shields.io/github/stars/[Venkat-Siva-Prasad-Reddy-Eppagunta/zedx](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/Secure-Task-Managment-System-JWT-RBAC)?style=social)]([https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/zedx](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/Secure-Task-Managment-System-JWT-RBAC))
+[![Star Badge](https://img.shields.io/github/stars/Venkat-Siva-Prasad-Reddy-Eppagunta/Secure-Task-Managment-System-JWT-RBAC?style=social)](https://github.com/Venkat-Siva-Prasad-Reddy-Eppagunta/Secure-Task-Managment-System-JWT-RBAC)
 
 Your support helps us improve and maintain this project!
 
